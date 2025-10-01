@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WalletApp</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="extrato">Extrato</string>
+    <string name="sair">Sair</string>
+    <string name="debito">Débito</string>
+    <string name="credito">Crédito</string>
+    <string name="descricao">Descrição</string>
+    <string name="valor">Valor</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="voltar">Voltar</string>
+    <string name="saldo">Saldo</string>
+    <string name="todas">Todas</string>
+    <string name="debitos">Débitos</string>
+    <string name="creditos">Créditos</string>
+</resources>
